@@ -14,11 +14,22 @@ How to use:
 Example:
 
 ####
+
 ....
+
 ....
+
 ....
+
+
 ###.
+
 #...
+
 ....
+
 ....
+
 etc.
+
+Works only unix.
